@@ -39,3 +39,4 @@ terraform.rc
 # Added Ignore
 tfplan
 terraform.tfstate.backup
+*.tfvars
