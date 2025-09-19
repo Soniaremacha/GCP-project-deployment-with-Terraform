@@ -1,1 +1,0 @@
-# GCP-project-deployment-with-Terraform
