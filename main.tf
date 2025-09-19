@@ -5,7 +5,6 @@ resource "google_project" "this" {
   project_id = var.project_id
   name       = var.project_name
 }
-# Doc: solo uno de org_id o folder_id puede especificarse. :contentReference[oaicite:1]{index=1}
 
 ############################################
 # 2) Vincular facturación (necesario para BigQuery)
